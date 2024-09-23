@@ -17,3 +17,6 @@ Header and Navigation
 
 ## Link :
 https://personal-portfolio-intermediate-project.vercel.app/
+
+## Note : 
+The Projects demonstrated in the website are not mine they were jsut put there for the purpose of making the site complete
